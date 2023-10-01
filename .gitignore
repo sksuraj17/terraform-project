@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore files with AWS credentials
+terraform.tfvars
+*.pem
+*.tfstate*
+.terraform.lock.hcl
